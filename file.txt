@@ -1,5 +1,5 @@
 firstline
 secondline
-thirdline(main)
+thirdline
 fourthline
-fifthline(main)
+fifthline
